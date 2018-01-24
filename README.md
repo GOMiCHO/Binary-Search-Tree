@@ -1,5 +1,4 @@
 # Data-Analysis-BST
-/*******************************************************************************************
 * Programmer: Cong Trinh
 * Class: CptS 122, Spring 2016; Lab Section 01
 * Programming Assignment: PA8 Data Analysis using BST
