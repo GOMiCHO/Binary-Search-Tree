@@ -8,4 +8,5 @@
 * units and status. Each node will be stores in either two BST's, either one for
 * purchased or sold. Each tree's contents and trends are then displayed on screen.
 *******************************************************************************************/
+
 -Data being utilized in the input stream is stored within the "PA8- Binary Search Trees" folder as an Excel spreadsheet.
